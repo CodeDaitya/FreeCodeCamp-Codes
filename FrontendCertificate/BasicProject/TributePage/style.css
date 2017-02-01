@@ -1,0 +1,23 @@
+body{
+  margin: 60px;
+}
+.list{
+  margin-left: 20%;
+}
+.thumbnail .caption,
+.thumbnail .caption>p{
+  font-size: 14px;
+  font-weight: lighter;
+  font-style: italic;
+  padding: 1px;
+  margin: 0;
+}
+.thumbnail>img{
+  margin: 1px;
+}
+h2{
+  font-weight: lighter;
+}
+span{
+  font-weight: bold;
+}
