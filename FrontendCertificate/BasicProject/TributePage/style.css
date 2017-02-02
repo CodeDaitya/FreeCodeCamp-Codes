@@ -9,11 +9,12 @@ body{
   font-size: 14px;
   font-weight: lighter;
   font-style: italic;
+  text-align: center;
   padding: 1px;
   margin: 0;
 }
 .thumbnail>img{
-  margin: 1px;
+  margin: 0 auto;
 }
 h2{
   font-weight: lighter;
